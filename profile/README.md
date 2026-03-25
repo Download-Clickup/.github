@@ -1,7 +1,7 @@
 # ClickUp Project Management Hub
 
 <div align="center">
-  <img src="https://independant.io/wp-content/uploads/clickup-logo.png" alt="ClickUp Platform"/>
+  <img src="https://cdn-public.softwarereviews.com/production/logos/offerings/7783/large/logo_on-purple_vert.png?1617159974" alt="ClickUp Platform"/>
 </div>
 
 **Optimize your team productivity and project delivery with expert resources for ClickUp project management configuration.**
